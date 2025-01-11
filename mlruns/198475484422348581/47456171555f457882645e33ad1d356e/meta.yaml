@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/miditech/MLFlow/MLFLOW_TASK6/mlruns/198475484422348581/47456171555f457882645e33ad1d356e/artifacts
+end_time: 1736638109338
+entry_point_name: ''
+experiment_id: '198475484422348581'
+lifecycle_stage: active
+run_id: 47456171555f457882645e33ad1d356e
+run_name: run_2
+run_uuid: 47456171555f457882645e33ad1d356e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736638095990
+status: 3
+tags: []
+user_id: Adan
