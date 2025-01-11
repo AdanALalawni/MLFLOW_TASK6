@@ -1,7 +1,3 @@
-Here is an example of a README file that explains the code and the functions, as well as includes some images from the internet:
-
----
-
 # Drug Prediction Model with MLflow
 
 This repository demonstrates how to build and evaluate a machine learning model to predict drugs based on certain features using a Decision Tree classifier. The project uses **MLflow** to manage and log experiments, model metrics, and model artifacts. Additionally, the code is structured in two parts: data preprocessing (separated into a `data_loader.py` file) and the model training and evaluation (in the `main_script.py` file).
@@ -94,11 +90,11 @@ Below are some relevant images that explain the concepts of decision trees and c
 
  **Run1 vs Run2**:
    MLflow helps you keep track of your experiments, including parameters, metrics, and artifacts like models and plots.
-   ![Confusion Matrix](https://upload.wikimedia.org/wikipedia/commons/2/24/Confusion_matrix.png)
+   ![Confusion Matrix](https://github.com/AdanALalawni/MLFLOW_TASK6/blob/main/assest/run1%20vs%20run2.png)
 
  **Run2 confusion matrix**:
 
-   ![MLflow UI](https://mlflow.org/images/mlflow-ui-screenshot.png)
+   ![MLflow UI](https://github.com/AdanALalawni/MLFLOW_TASK6/blob/main/assest/run2.png)
 
 
 
